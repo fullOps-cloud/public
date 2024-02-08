@@ -33,9 +33,7 @@ style: |
 <!-- backgroundcolor: black -->
 ![bg blur:2px opacity:.7](img/fullops-bg-dark.png)
 
-### Directeur Technique
-
-![w:250px center](img/qrcode-linkedin_pb.png)
+![w:280px center](img/qrcode-linkedin_pb.png)
 
 ---
 <!-- backgroundcolor: black -->
